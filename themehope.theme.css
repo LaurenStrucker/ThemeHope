@@ -1,0 +1,41 @@
+/**
+ * @name Hope
+ * @description My First Theme for BetterDiscord, Inspired Others DEVS.
+ * @author Auramo
+ * @authorId 278543574059057154
+ * @version 0.1
+ * @source https://github.com/LaurenStrucker/hopethemes.github.io
+ * @website https://www.youtube.com/channel/UCZN_WR4H9FTVToQRIDcDA6g
+ * @invite kADG9NVJtg
+ 
+*/
+
+/*Pohja CSS Teema */
+@import url(https://laurenstrucker.github.io/hopethemes.github.io/snippetit.theme.css);
+/*@import url(https://laurenstrucker.github.io/hopethemes.github.io/hopetheme.css);
+*/
+/* Addons Osat */
+
+/*MACOS TITLE BAR*/
+/*@import url(https://laurenstrucker.github.io/hopethemes.github.io/macos.css);
+
+*/
+/*@import url(https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/addons/redesign/source.css);
+*/
+@import url("https://crearts-community.github.io/Context-Icons/theme.css"); /* ⚠️ Do not touch! */
+
+@import url("https://crearts-community.github.io/Context-Icons/modules/plugins/betterdiscord.css"); /* ⚠️ Do not touch! */
+
+@import url("https://crearts-community.github.io/Friends-Grid/theme.css"); /* 🔻 Source Files */
+
+@import url("https://crearts-community.github.io/Friends-Grid/modules/plugins/betterdiscord.css"); /* 🔻 BetterDiscord */
+
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/settings-icons.css");
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/friends-grid.css");
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/animations/channels-sidebar.css");
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/animations/chat-input.css");
+
+
+
+
+
